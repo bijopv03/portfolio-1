@@ -9,19 +9,19 @@ click on the link to see :- ([Open in Youtube](https://youtu.be/BtyURSWKxgM))
 # portfolio preview
 
 # Home Page
-![screenshot](Home.png)
+![screenshot](AlexHome.png)
 
 # About Page
-![screenshot](About.png)
+![screenshot](AlexSkills.png)
 
 # Education Page
-![screenshot](Education.png)
+![screenshot](AlexEducation.png)
 
 # Services Page
-![screenshot](Services.png)
+![screenshot](AlexServices.png)
 
 # Contact Me  Page
-![screenshot](ContactMe.png)
+![screenshot](AlexContactMe.png)
 
 # Footer
 ![screenshot](Footer.png)
