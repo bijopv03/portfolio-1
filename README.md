@@ -12,7 +12,7 @@ click on the link to see :- ([Open in Youtube](https://youtu.be/BtyURSWKxgM))
 ![screenshot](AlexHome.png)
 
 # About Page
-![screenshot](AlexSkills.png)
+![screenshot](AlexSkill.png)
 
 # Education Page
 ![screenshot](AlexEducation.png)
@@ -21,7 +21,7 @@ click on the link to see :- ([Open in Youtube](https://youtu.be/BtyURSWKxgM))
 ![screenshot](AlexServices.png)
 
 # Contact Me  Page
-![screenshot](AlexContactMe.png)
+![screenshot](AlexContact.png)
 
 # Footer
 ![screenshot](Footer.png)
